@@ -28,3 +28,16 @@ nav a { text-decoration: none;
 nav a:hover{background-color: rgb(55, 24, 82);
 color: white; }
 
+.card {
+    float: left;
+    width: 20%;
+    margin-left: 10%;
+}
+.card { 
+    text-align: center;
+}
+
+img { width: 100%; 
+height: 100px;}
+
+h2 { text-align: center;}
