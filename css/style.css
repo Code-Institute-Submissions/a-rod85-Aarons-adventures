@@ -2,8 +2,7 @@ body { margin: 0;
 padding: 0;
 font-family: sans-serif;
 color-scheme: white;
-background-color: rgb(74, 107, 175);}
-
+}
 nav ul{list-style: none;
 background-color: indigo;
 text-align: center;
