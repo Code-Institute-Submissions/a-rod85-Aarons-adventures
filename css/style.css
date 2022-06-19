@@ -68,5 +68,5 @@ align-items: center;}
 .content-image{
     width: 200px;
     height: 200px;
-    object-fit: contain;
+    object-fit: fill;
 }
