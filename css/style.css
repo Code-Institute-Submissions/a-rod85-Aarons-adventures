@@ -20,12 +20,13 @@ color-scheme: white;
 
  .content {background-color: rgb(75, 68, 68);
             width: 100%;
-            height: 200px;
+            height: fit-content;
             display: flex; 
-        flex-direction: row;}
+        flex-direction: column;
+    align-items: center;}
 .content-inner {
             height: 100px;
-            width: 100%;
+            width: 80%;
             background-color: cornflowerblue;
             margin: 24px;
 
@@ -57,3 +58,6 @@ align-items: center;}
     height: 200px;
     margin: 16px;
 }
+.first-content{
+    padding: 8px;}
+    .title-center {text-align: center;}
