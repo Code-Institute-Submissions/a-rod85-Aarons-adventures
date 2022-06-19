@@ -18,7 +18,7 @@ color-scheme: white;
      
  }
 
- .content {background-color: rgb(75, 68, 68);
+ .content {background-color: whitesmoke;
             width: 100%;
             height: fit-content;
             display: flex; 
@@ -61,3 +61,12 @@ align-items: center;}
 .first-content{
     padding: 8px;}
     .title-center {text-align: center;}
+.content-wrapper{
+    display:flex;
+    flex-direction: row;
+}
+.content-image{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
