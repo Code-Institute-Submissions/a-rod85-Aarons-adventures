@@ -102,18 +102,18 @@ color:white
 
 }
 .med
-div.gallery {
+div.media-photos{
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
     width: 180px;
   }
   
-  div.gallery:hover {
+  div.media-photos:hover {
     border: 1px solid #777;
   }
   
-  div.gallery img {
+  div.media-photos {
     width: 100%;
     height: auto;
   }
