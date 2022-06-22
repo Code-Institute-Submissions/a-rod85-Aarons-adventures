@@ -1,5 +1,5 @@
 body { margin: 0;
-padding: 0;
+padding: 0 1em;
 font-family: cursive;
 color-scheme: white;
 }   
@@ -12,16 +12,16 @@ color-scheme: white;
     list-style: none;
 }
 .menu-item {
-    padding: 8px;
+    padding: 0 1em;
 }
  .hero-img {
-     width: 100%;
+     max-width: 100%;
      height: auto;
      
  }
 
  .content {background-color:rgb(55, 55, 55);
-            width: 100%;
+            max-width: 100%;
             height: fit-content;
             display: flex; 
         flex-direction: column;
@@ -30,7 +30,7 @@ color:white}
 
 
 .media-photos{
-    width: 200px;
+    max-width: 200px;
     height: 200px;
     margin: 16px;
     object-fit: row;
@@ -38,7 +38,7 @@ color:white}
        
     }
 .home-intro{
-    padding: 8px;padding: 0px 128px;
+    padding: 0 1em;
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
@@ -61,7 +61,8 @@ color:white}
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     background-color: rgb(55, 55, 55);
-    color:white
+    color:white;
+    padding: 0 1em;
 }
 .london-images{
     width: 100px;
@@ -70,7 +71,8 @@ color:white}
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    max-width: 50%;
+    
 }
 .image-wrapper{
     display: flex;
@@ -81,7 +83,7 @@ color:white}
 
 .zuma-experience{
     background-color: rgb(55, 55, 55);
-    width: 100%;
+    max-width: 100%;
     height: fit-content;
     display: flex; 
     flex-direction: column;
@@ -90,23 +92,23 @@ color:white}
     }
 
    .zuma-images {
-    width: 100px;
+    max-width: 100px;
     height: 200px;
     object-fit: contain;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 40%;
 }
 
 .image-text{
     color: white;
-    padding: 0%;
-margin: 0%;}
+    padding: 0% 1em;
+    margin: 0%;}
 
 
  .text-align-center{
-    padding: 0px 128px;
+    padding: 0 1em;
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
@@ -132,7 +134,7 @@ div.media-photos{
     margin: 5px;
     border: 1px solid #ccc;
     float: none;
-    width: 180px;
+    max-width: 180px;
   }
   
   div.media-photos:hover {
@@ -140,12 +142,12 @@ div.media-photos{
   }
   
   div.media-photos {
-    width: 100%;
+    max-width: 100%;
     height: auto;
   }
   
   div.desc {
-    padding: 15px;
+    padding: 0 1em;
     text-align: left;
     background-color: rgb(55, 55, 55);
     color: white;
@@ -154,30 +156,35 @@ div.media-photos{
    /* Media Queries */
 
   /* Extra small devices (phones, 600px and down) */
-  @media only screen and (max-width: 600px) {
+  @media only screen and (min-width: 600px) {
     p{
-        font-size: 1.25rem;}}
+        font-size: 1.25rem;
+        padding: 0px 1em;}}
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 600px) {
     p{
-        font-size: 1.25rem;}}
+        font-size: 1.25rem;
+        padding: 0 1em;}}
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
     p{
         font-size: 1.25rem;
-    line-height: 1.5;}}
+        line-height: 1.5;
+        padding:0 1em ;}}
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-    p class="" {
+    p{
         font-size: 1.25rem;
-    line-height: 1.75;}
+        line-height: 1.75;
+        padding: 0 1em;}
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
     p{
         font-size: 1.25rem;
-    line-height: 2;}}
+    line-height: 2;
+    padding: 0 1em;}}
