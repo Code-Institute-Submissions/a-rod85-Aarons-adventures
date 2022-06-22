@@ -4,15 +4,8 @@ font-family: cursive;
 color-scheme: white;
 }   
 
-nav { 
-    position: float;
-    left: 0;
-    right: 0;
-    top: 0;
-    font-family: cursive ;
-    height: 100px;
-    
-}
+
+
 .menu {
     display: flex;
     flex-direction: row;
@@ -161,24 +154,24 @@ div.media-photos{
    /* Media Queries */
 
   /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 600px) {
     p{
-        font-size: 1.25rem;}...}
+        font-size: 1.25rem;}}
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
     p{
-        font-size: 1.25rem;}...}
+        font-size: 1.25rem;}}
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
     p{
         font-size: 1.25rem;
-    line-height: 1.5;}...}
+    line-height: 1.5;}}
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-    p{
+    p class="" {
         font-size: 1.25rem;
     line-height: 1.75;}
 }
