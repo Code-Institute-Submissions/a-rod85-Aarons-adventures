@@ -31,7 +31,7 @@ color:white}
         width: 200px;
         height: 200px;
         margin: 16px;
-        object-fit: ;
+        object-fit:contain ;
        
     }
 .home-intro{
