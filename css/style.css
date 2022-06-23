@@ -104,8 +104,8 @@ body {
 }
 
 .zuma-images {
-    max-width: 100px;
-    height: 200px;
+    max-width: 80px;
+    height: 100px;
     object-fit: contain;
     display: block;
     margin-left: auto;
