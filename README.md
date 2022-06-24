@@ -1,4 +1,4 @@
-#Aaron's Restaurant and Bar Adventures
+**Aaron's Restaurant and Bar Adventures**
 ![Skärmbild (3)](https://user-images.githubusercontent.com/102023928/175435017-6a8b69f9-ba16-4d21-b087-51d4fb2cacc1.png)
 
 Aaron's Restaurant and Bar Adventures is a guide to restaurants and bars in London website for people looking for tips advice and an inside view. Site users can view each week a new destination through the eyes of Aaron. They will get advice on how to get there, pricing, atmosphere and much more information from each establishment that is visited.
@@ -49,11 +49,18 @@ My goal for the site is to create a user friendly site for everybody who enjoys 
 
 **Site Owner Goals**
 
-    ⊛ Inspire more people to try somewhere new ⊛ User is engaged in the content ⊛ User will want to revisit weekly to see what's new
+    ⊛ Inspire more people to try somewhere new 
+    
+    ⊛ User is engaged in the content 
+    
+    ⊛ User will want to revisit weekly to see what's new
 
 **User Goals**
 
-    ⊛Gain an understanding of London areas on where to they may find what they are looking for ⊛Get inspiration to enjoy new restaurants they may not have visited       
+    ⊛Gain an understanding of London areas on where to they may find what they are looking for 
+    
+    ⊛Get inspiration to enjoy new restaurants they may not have visited       
+    
     ⊛Get inspiration to enjoy new bars they may not yet visited
 
 **User Stories**
@@ -64,7 +71,7 @@ My goal for the site is to create a user friendly site for everybody who enjoys 
 
     ⊛As a site user I can click on Zuma experience and there will get an egaging experience from Aaron's visit to Zuma, which will also have a number of images and a cost effective section
 
-    ⊛As a site user I can click on Zuma experience I will also find the link at the bottom of the page that will take me directly to the zuma website so I will be able to make my own booking if i chose or just to look over the menu.
+    ⊛As a site user I can click on Zuma experience and will also find the link at the bottom of the page that will take me directly to the zuma website so I will be able to make my own booking if i chose or just to look over the menu.
 
     ⊛As a site user I can click on Media and will find an array of images from zuma displaying the food and drinks which have a description on each image.
 
@@ -92,9 +99,14 @@ My goal for the site is to create a user friendly site for everybody who enjoys 
 
     ⊛Design Features
 
-    ∙Header The header consists of a Navigation Bar that is consistent over all pages of the site. The Navigation Bar is also sticky so while scrolling it will follow      but stay above the content you are viewing. Following this are the links for the other pages, when the mouse hoovers over each one there is a lighter grey              highlighted so its stands out visually. When you click on the link it highlights yellow so there's no doubting which page you have selected to see. 
+    ∙Header The header consists of a Navigation Bar that is consistent over all pages of the site. 
+    The Navigation Bar is also sticky so while scrolling it will followbut stay above the content you are viewing.
+    Following this are the links for the other pages, 
+    when the mouse hoovers over each one there is a lighter grey highlighted so its stands out visually.
+    When you click on the link it highlights yellow so there's no doubting which page you have selected to see. 
 
-    ∙The Home Page, when you first visit the site you are met with a beautiful image of Zuma London showing the theme of what you about to engage in. Underneath that       you have a short description explaining the sites purpose.
+    ∙The Home Page, when you first visit the site you are met with a beautiful image of Zuma London showing the theme of what you about to engage in. 
+     Underneath that you have a short description explaining the sites purpose.
 
     ⊛Existing Features
 
@@ -119,8 +131,11 @@ My goal for the site is to create a user friendly site for everybody who enjoys 
 **##Testing**
 
     Testing was done manually throughout the development process.
+    
+    ![Skärmbild (5)](https://user-images.githubusercontent.com/102023928/175489113-ed1d899e-b4ff-43c4-8429-c34e1ae084e9.png)
 
 **Technology Used**
+
 
 ◉ HTML5 
 
@@ -134,9 +149,11 @@ My goal for the site is to create a user friendly site for everybody who enjoys 
     
     ◉Git 
     
-    ∙Git was used for   version control by utilizing the GitPod terminal to commit to Git and push to GitHub. 
+    ∙Git was used for version control by utilizing the GitPod terminal to commit to Git and push to GitHub. 
     
-    ◉GitHub ∙GitHub was used to store the project after pushing 
+    ◉GitHub 
+    
+    ∙GitHub was used to store the project after pushing 
     
     ◉Am I Responsive? 
     
