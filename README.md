@@ -1,4 +1,5 @@
 #Aaron's Restaurant and Bar Adventures
+![Skärmbild (3)](https://user-images.githubusercontent.com/102023928/175435017-6a8b69f9-ba16-4d21-b087-51d4fb2cacc1.png)
 
 Aaron's Restaurant and Bar Adventures is a guide to restaurants and bars in London website for people looking for tips advice and an inside view. Site users can view each week a new destination through the eyes of Aaron. They will get advice on how to get there, pricing, atmosphere and much more information from each establishment that is visited.
 
@@ -14,8 +15,11 @@ Content
     ∙Color Scheme
     ∙Logo Vegan-a-eat
     ∙Images
-⊛Wireframes
-◉Features ⊛Design Features ⊛Existing Features ⊛Future Features
+
+◉Features 
+⊛Design Features 
+⊛Existing Features 
+⊛Future Features
 
 ◉Testing
 
