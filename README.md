@@ -18,7 +18,6 @@ Aaron's Restaurant and Bar Adventures is a guide to restaurants and bars in Lond
     ⊛Design Choices
        ∙Font
        ∙Color Scheme
-       ∙Logo Vegan-a-eat
        ∙Images
 
 ◉**Features**
