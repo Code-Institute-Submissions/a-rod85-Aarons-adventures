@@ -188,7 +188,10 @@ div.desc {
         padding: 0 1em;
     }
     .zuma-images {
-        height: 400px;
+        height: 464px;
+    }
+    .london-images {
+        height: 464px;
     }
 }
 
@@ -198,6 +201,12 @@ div.desc {
         font-size: 1.25rem;
         line-height: 1.75;
         padding: 0 1em;
+    }
+    .zuma-images {
+        height: 392px;
+    }
+    .london-images {
+        height: 392px;
     }
 }
 
