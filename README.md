@@ -115,7 +115,7 @@ My goal for the site is to create a user friendly site for everybody who enjoys 
     ∙London Areas & Travel has the content and images that reference what is being described
     ∙Zuma Experience has the content and images that reference what is being described. 
     ∙Zuma Experience has the added information regarding cost, travel, dress etire and also a link to Zuma.
-    ∙Media has the images with the decription of what the image is showing and a youtube video from the owner of Zuma.
+    
 
     ⊛Future Features
 
@@ -127,11 +127,39 @@ My goal for the site is to create a user friendly site for everybody who enjoys 
     ∙A comment section
     ∙A like icon to also see what the users like on the page
 
-**##Testing**
+**Validation Testing**
 
-    Testing was done manually throughout the development process.
+    I used LightHouse to test the webpage accessibility, performance, SEO and best practices
     
-    ![Skärmbild (5)](https://user-images.githubusercontent.com/102023928/175489113-ed1d899e-b4ff-43c4-8429-c34e1ae084e9.png)
+![Skärmbild (120)](https://user-images.githubusercontent.com/102023928/182535321-d8cd36d4-36ef-4eb7-8304-195b16904f48.png)
+
+
+
+**Testing/ Bugs**
+
+
+        Pain = Images was appearing to small on phone devices and not very clear
+
+
+![Skärmbild (122)](https://user-images.githubusercontent.com/102023928/182536245-3167f029-2791-46e3-915e-e387e505c952.png)
+
+
+        Solution = I added a <div class="image-wrapper"> along with adding the attributes to the css file to reach the goal
+
+
+![Skärmbild (123)](https://user-images.githubusercontent.com/102023928/182536565-3ff0f8b8-551b-4e15-9ac3-fa1095175b9b.png)
+
+        Pain =  The "Click here to visit Zuma" button located on the "Zuma experience" had black text on a grey background which made 
+        it difficult to spot at the bottom of the page.
+        
+        Solution = Adapt the code by changing the colour to yellow so it stood out very clearly.
+
+![Skärmbild (125)](https://user-images.githubusercontent.com/102023928/182539347-48d43256-aff9-478e-b348-144ee7bb43f4.png)
+
+
+        The link to the zuma paged worked without any problems. 
+
+           I was having pains in adusting the video which was initally incorparted on the page, due to this I removed it entirely.
 
 **Technology Used**
 
@@ -166,9 +194,8 @@ My goal for the site is to create a user friendly site for everybody who enjoys 
 
     ⊛ Media
 
-    ∙Images and video used on the website came from tripadvisor, istockphoto, 
-    stackpathcdn,the undercover food critic,zuma restaurant,hongkong living, bostonmagazine,be-gusto, pin 
-    and youtube.
+    ∙Images used on the website came from tripadvisor, istockphoto, 
+    stackpathcdn,the undercover food critic,zuma restaurant,hongkong living, bostonmagazine,be-gusto and pin.
 
 ⊛ Code References used:
 
@@ -182,4 +209,4 @@ The slack community.
 
 My mentor Harry for the patience and encouragement.
 
-And London for giving me the experience from birth to be able to enjoy many restaurants and bars.
+
