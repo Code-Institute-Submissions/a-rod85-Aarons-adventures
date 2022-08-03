@@ -158,8 +158,13 @@ My goal for the site is to create a user friendly site for everybody who enjoys 
 
 
         The link to the zuma paged worked without any problems. 
+        
+        
+ ![Skärmbild (127)](https://user-images.githubusercontent.com/102023928/182543807-84675ce9-4aee-40d2-b106-8684b411e9fc.png)
 
-           I was having pains in adusting the video which was initally incorparted on the page, due to this I removed it entirely.
+        
+
+        I was having pains in adusting the video which was initally incorparted on the page, due to this I removed it entirely.
 
 **Technology Used**
 
